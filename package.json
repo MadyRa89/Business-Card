@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0gi40mbhp",
+  "description": "https://v2.scrimba.com/s0gi40mbhp",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
